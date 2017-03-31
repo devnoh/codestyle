@@ -1,6 +1,6 @@
 # codestyle
 
-* Last updated on February 15, 2017
+* Last updated on March 31, 2017
 
 ## AutoGravity Java Code Style
 
@@ -10,13 +10,13 @@ or at least should not complain each other.
 
 Let's make the code clean!
 
-### Eclipse (JEE Neon.2)
+### Eclipse (JEE Neon.2 or above)
 
 1. Import code style: **autogravity-style-eclipse.xml** and **autogravity-style-eclipse.importorder**
 2. Format code using **Shift+Command+F**.
 3. Organize imports using **Shift+Command+O**.
 
-### IntelliJ IDEA (2016.3)
+### IntelliJ IDEA (2016.3 or above)
 
 1. Import code style: **autogravity-style-intellij.xml**
 2. Format code using **Option+Command+L**.
@@ -40,4 +40,4 @@ Here are some fixes:
 * Line wrapping fixes (IntelliJ IDEA)
 * Import layout/order fixes (Eclipse, IntelliJ IDEA)
 * Removed other language settings (IntelliJ IDEA)
-
+* Wrap always on class, method and field annotations (IntelliJ IDEA)
