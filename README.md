@@ -1,6 +1,6 @@
 # codestyle
 
-* Last updated on March 31, 2017
+* Last updated on August 3, 2017
 
 ## AutoGravity Java Code Style
 
@@ -41,3 +41,4 @@ Here are some fixes:
 * Import layout/order fixes (Eclipse, IntelliJ IDEA)
 * Removed other language settings (IntelliJ IDEA)
 * Wrap always on class, method and field annotations (IntelliJ IDEA)
+* Preserve line feeds in JavaDoc (IntelliJ IDEA)
